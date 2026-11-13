@@ -8,7 +8,7 @@ O tema escolhido foi a ideologia do tecnocentrismo, e o notebook foi criado com 
 
 # Fontes selecionadas
 
-Inicialmente foram adicionadas 3 fontes manualmente por mim ao notebook, antes de adiciona-las, consumi parte do conteúdo delas e acreditei que continham informações úteis para o estudo do tecnocentrismo, o vídeo do youtube é util pela visão mais crítica e que expande a discussão sobre o assunto, por outro lado a Wikipédia tem muito conteúdo, que se complementa ao adicionar fontes externas.
+Inicialmente foram adicionadas 3 fontes manualmente por mim ao notebook, antes de adicioná-las, consumi parte do conteúdo delas e acreditei que continham informações úteis para o estudo do tecnocentrismo, o vídeo do youtube é util pela visão mais crítica e que expande a discussão sobre o assunto, por outro lado a Wikipédia tem muito conteúdo, que se complementa ao adicionar fontes externas.
 
 ## Fontes adicionadas manualmente
 
@@ -65,7 +65,7 @@ Foram realizadas 5 perguntas ao professor, para que ele respondesse se baseando 
 ### 5 - Como funciona a estratégia do desacoplamento?
 ![alt text](image-9.png)
 
-O Notebook Gemini é uma poderosa ferramenta que pode impulsionar os estudos de qualquer tema, ele te estimula a pesquisar, buscando conteúdo de fontes confiáveis, na minha opinião segue sendo umas das melhores ferramentas de IA para ser utilzada no dia a dia, no desenvolvimento de projetos, estudos ou simplesmente na pesquisa de um assunto que você tem interesse, que é o caso desse tema escolhido por mim.
+O Notebook Gemini é uma poderosa ferramenta que pode impulsionar os estudos de qualquer tema, ele te estimula a pesquisar, buscando conteúdo de fontes confiáveis, na minha opinião segue sendo umas das melhores ferramentas de IA para ser utilzada no dia a dia no desenvolvimento de projetos, estudos ou simplesmente na pesquisa de um assunto que você tem interesse, que é o caso desse tema escolhido por mim.
 
 ## Link para o Notebook
 https://notebook.google.com/notebook/da3f91da-7277-4a05-b23a-9a3d2061d110
